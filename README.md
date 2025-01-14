@@ -9,3 +9,10 @@ I like apple!!!
 
 touch .gitkeep
     keep an empty folder for github
+
+git log: show the commit history
+
+"q" key: exit log mode in terminal and enable typing command
+
+git log --oneline
+    shortened view of log
